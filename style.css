@@ -27,6 +27,10 @@ body {
     background-color: aquamarine;
 }
 
+.changeColor {
+   background: yellow;
+}
+
 img {
     vertical-align: baseline;
 }
