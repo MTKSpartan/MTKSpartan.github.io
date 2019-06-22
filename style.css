@@ -1,6 +1,3 @@
-@import "https://fonts.googleapis.com/css?family=Lato: 100";
-
-
 @font-face {
     font-family: 'HelveticaNeueLTPro-Md';
     src: url('fonts/HelveticaNeueLTPro-Md.eot?#iefix') format('embedded-opentype'),
@@ -22,43 +19,7 @@
     font-weight: normal;
     font-style: normal;
 }
-/*
-.section{
-    width:100%;
-    height: 100vh;
-    color:#fff;
-    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-    background-size: 400% 400%;
-    position: relative;
-    animation: change 10s ease-in-out infinite;
-}
-*/
 
-
-body {
-    width:100%;
-    height: 100vh;
-    color:#fff;
-    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-    background-size: 400% 400%;
-    position: relative;
-    animation: change 10s ease-in-out infinite;
-    font-family: 'HelveticaNeueLTPro-Md';
-}
-
-@keyframes change {
-    0%{
-    background-position: 0 50%;    
-    }
-    50%{
-        background-position: 100% 50%;
-    }
-    100%{
-        background-position: 0 50%;
-    }
-    
-}
-/*
 body {
     width:100%;
     height: 100vh;
@@ -73,7 +34,7 @@ body {
 img {
     vertical-align: baseline;
 }
-*/
+
 
 /*--------------------------------------------------------------
 # Links
