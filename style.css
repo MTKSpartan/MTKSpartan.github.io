@@ -603,6 +603,7 @@ body {
     position: relative;
     animation: change 10s ease-in-out infinite;
     font-family: 'HelveticaNeueLTPro-Md';
+    overflow-y: scroll;
 }
 
 img {
