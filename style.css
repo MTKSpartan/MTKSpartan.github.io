@@ -573,6 +573,16 @@ html {
     font-style: normal;
 }
 
+
+@keyframes animStar {
+    from {
+        transform: translateY(0px);
+    }
+    to {
+        transform: translateY(-2000px);
+    }
+}
+
 @font-face {
     font-family: 'BeyondTheMountains';
     src: url('fonts/BeyondTheMountains.eot?#iefix') format('embedded-opentype'),
