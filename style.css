@@ -915,7 +915,7 @@ a:hover, a:active {
     width: 100%;
     height: 22px;
     overflow: hidden;
-    background: #fff;
+    background: #00FFFF;
     list-style: none;
     transition: all .35s;
 }
